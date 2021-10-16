@@ -1,0 +1,42 @@
+.navbar-collapse {
+	padding-left: 40rem;
+}
+
+.intro {
+	text-align: center;
+	padding: 100px;
+}
+
+#top {
+	background-color: #e4f9f5;
+}
+
+#about {
+	padding: 100px;
+}
+
+hr {
+	border: dotted #eaf6f6 6px;
+	border-bottom: none;
+	width: 4%;
+	margin: 100px auto;
+}
+
+.logo {
+	width: 10%;
+	display: inline-block;
+}
+
+.company {
+	display: inline;
+	padding: 50px;
+}
+
+.designation {
+	display: inline;
+	text-align: right;
+}
+
+#education {
+	padding: 100px;
+}
